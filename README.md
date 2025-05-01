@@ -2,3 +2,11 @@
 Este es un repositorio donde se explica todo lo referente a comandos de Git, generación de documentación en Java con JavaDoc y optimización del código
 
 ![Git y GitHub, las principales herramientras a trabjar en este tema](https://blog.desafiolatam.com/wp-content/uploads/2016/05/git-github-logo.jpg)
+
+## Índice
+
+- [Comandos de Git](#comandos-de-git)
+- [Documentación en Java](#documentación-en-java)
+- [Optimización del código](#optimización-del-código)
+
+
