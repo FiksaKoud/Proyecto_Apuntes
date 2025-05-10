@@ -70,3 +70,33 @@ Cambia de rama o restaura archivos a un estado anterior.
 - `git checkout archivo.txt` (restaura archivo desde último commit)
 
 ---
+
+## Etiquetar Versiones
+
+### `git tag`
+Crea o muestra etiquetas de versiones.
+
+- `git tag` (lista etiquetas)  
+- `git tag v1.0` (crea una nueva etiqueta)
+
+---
+
+## Mostrar Información
+
+### `git show`
+Muestra información de commits, etiquetas, etc.
+
+- `git show HEAD`  
+- `git show v1.0`
+
+---
+
+## Comparar Cambios
+
+### `git diff`
+Compara cambios entre archivos, ramas o commits.
+
+- `git diff`  
+- `git diff rama1 rama2`
+
+---
