@@ -20,3 +20,44 @@ Configura opciones de Git a nivel global o local.
 > Establece tu identidad para los commits.
 
 ---
+
+## Inicio del Repositorio
+
+### `git init`
+Inicializa un repositorio Git en el directorio actual.
+
+- `git init`
+
+> Crea una carpeta `.git` con toda la información del repositorio.
+
+---
+
+## Agregar Cambios
+
+### `git add`
+Agrega archivos al área de preparación (staging area).
+
+- `git add archivo.txt`  
+- `git add .` (agrega todos los archivos modificados)
+
+---
+
+## Confirmar Cambios
+
+### `git commit`
+Guarda los cambios agregados al repositorio con un mensaje.
+
+- `git commit -m "Descripción del cambio"`
+
+---
+
+## Ver Historial
+
+### `git log`
+Muestra el historial de commits.
+
+- `git log`  
+- `git log --oneline` (resumen en una línea)
+
+---
+
