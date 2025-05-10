@@ -149,3 +149,18 @@ Lista, crea o elimina ramas.
 - `git branch nueva-rama` (crear rama)
 
 ---
+
+## Fusionar Cambios
+
+### `git merge`
+Fusiona otra rama en la rama actual.
+
+- `git merge nombre-rama`
+
+---
+
+## Notas Finales
+
+Estos comandos forman la base del trabajo con Git. Dominar su uso mejora significativamente el flujo de trabajo en proyectos colaborativos y personales.
+
+---
