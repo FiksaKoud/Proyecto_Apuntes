@@ -100,3 +100,23 @@ Compara cambios entre archivos, ramas o commits.
 - `git diff rama1 rama2`
 
 ---
+
+## Repositorios Remotos
+
+### `git remote`
+Muestra o gestiona conexiones a repositorios remotos.
+
+- `git remote -v` (ver)  
+- `git remote add origin url`
+
+---
+
+## Subir Cambios
+
+### `git push`
+Envía los commits al repositorio remoto.
+
+- `git push origin main`  
+- `git push --tags` (envía también las etiquetas)
+
+---
