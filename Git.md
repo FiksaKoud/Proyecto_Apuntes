@@ -120,3 +120,13 @@ Envía los commits al repositorio remoto.
 - `git push --tags` (envía también las etiquetas)
 
 ---
+
+## Deshacer Cambios
+
+### `git reset`
+Deshace cambios del historial o del área de preparación.
+
+- `git reset archivo.txt` (saca archivo del staging)  
+- `git reset --hard HEAD~1` (borra el último commit)
+
+---
