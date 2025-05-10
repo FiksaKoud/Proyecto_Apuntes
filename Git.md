@@ -139,3 +139,13 @@ Muestra los archivos modificados, agregados y pendientes.
 - `git status`
 
 ---
+
+## Gestión de Ramas
+
+### `git branch`
+Lista, crea o elimina ramas.
+
+- `git branch` (ver ramas)  
+- `git branch nueva-rama` (crear rama)
+
+---
