@@ -61,3 +61,12 @@ Muestra el historial de commits.
 
 ---
 
+## Navegación y Versiones
+
+### `git checkout`
+Cambia de rama o restaura archivos a un estado anterior.
+
+- `git checkout nombre-rama`  
+- `git checkout archivo.txt` (restaura archivo desde último commit)
+
+---
