@@ -7,4 +7,16 @@ Aquí es donde se explica todo lo referente a los **comandos** que usamos en **G
 
 ---
 
+## Configuración
 
+### `git config`
+Configura opciones de Git a nivel global o local.
+
+- `git config --global user.name "Tu Nombre"`  
+- `git config --global user.email "tu@email.com"` 
+- `git config --global core.editor nano`
+- `git config --global init.defaultBranch main`
+
+> Establece tu identidad para los commits.
+
+---
