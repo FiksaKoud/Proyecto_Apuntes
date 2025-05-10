@@ -130,3 +130,12 @@ Deshace cambios del historial o del área de preparación.
 - `git reset --hard HEAD~1` (borra el último commit)
 
 ---
+
+## Estado Actual
+
+### `git status`
+Muestra los archivos modificados, agregados y pendientes.
+
+- `git status`
+
+---
