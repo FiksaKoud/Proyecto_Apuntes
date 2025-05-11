@@ -27,6 +27,6 @@ Esperamos unos instantes y ya se nos genera el documento Javadoc en formato HTML
 ## Recomendaciones
 
 - Verifica que tengas configurado el `JAVA_HOME` y que el proyecto esté compilado correctamente.
-- Asegúrate de incluir etiquetas útiles como `@param`, `@return`, `@author.
+- Asegúrate de incluir etiquetas útiles como `@param`, `@return`, `@author`.
 
 ---
