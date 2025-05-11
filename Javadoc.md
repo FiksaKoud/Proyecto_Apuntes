@@ -5,3 +5,10 @@ Javadoc es una herramienta incluida en el JDK (Java Development Kit) que se util
 
 ---
 
+## Paso 1
+-Abrimos nuestro proyecto con NetBeans.
+
+-Insertamos comentarios con /** ... */ justo antes de las clases, métodos, atributos o interfaces.
+
+## Paso 2
+
