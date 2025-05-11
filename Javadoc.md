@@ -13,7 +13,8 @@
 ## Paso 2
 -Hacemos clic en la pestaña **Run** de NetBeans.
 
--Luego vamos a la opción **Generate Javadoc** con el nombre de nuestro proyecto para generar el documento.
+-Luego vamos a la opción **Generate Javadoc** con el nombre de nuestro proyecto y hacemos clic para generar el documento.
 
 ---
 
+Esperamos unos instantes y ya se nos genera el documento Javadoc en formato HTML, además de que se nos abre automáticamente.
