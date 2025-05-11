@@ -23,3 +23,10 @@
 
 Esperamos unos instantes y ya se nos genera el documento Javadoc en formato HTML, además de que se nos abre automáticamente.
 ![Documento HTML resultante](javadoc_caps/javadoc5.png)
+
+## Recomendaciones
+
+- Verifica que tengas configurado el `JAVA_HOME` y que el proyecto esté compilado correctamente.
+- Asegúrate de incluir etiquetas útiles como `@param`, `@return`, `@author.
+
+---
