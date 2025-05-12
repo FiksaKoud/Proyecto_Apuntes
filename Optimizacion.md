@@ -1,6 +1,8 @@
 # Optimización del código
 La **optimización de código** es el proceso de mejorar un programa para que sea más eficiente, sin alterar su funcionalidad. Esto puede implicar hacerlo más rápido, consumir menos memoria, reducir el uso de CPU, o hacerlo más legible y mantenible
 
+---
+
 ![Icono de la optimización](Optimizado.png)
 
 ---
