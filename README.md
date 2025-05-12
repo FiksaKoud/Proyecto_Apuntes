@@ -7,6 +7,6 @@ Este es un repositorio donde se explica todo lo referente a comandos de Git, gen
 
 - [Comandos de Git](Git.md)
 - [Documentación en Java](Javadoc.md)
-- [Optimización del código](#optimización-del-código)
+- [Optimización del código](Optimizacion.md)
 
 
