@@ -3,6 +3,8 @@ Este es un repositorio donde se explica todo lo referente a comandos de Git, gen
 
 ![Git y GitHub, las principales herramientras a trabajar en este tema](https://blog.desafiolatam.com/wp-content/uploads/2016/05/git-github-logo.jpg)
 
+---
+
 ## Índice
 
 - [Comandos de Git](Git.md)
